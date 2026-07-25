@@ -1,11 +1,11 @@
 [package]
 name = "globalize"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2024"
 
 readme = "./README.md"
 license = "MPL-2.0"
-description = "A type-safe way to interact with removing from and inserting into options."
+description = "Safe global mutables via injection into `main`"
 repository = "https://github.com/Lucretiel/globalize"
 
 [dependencies]
